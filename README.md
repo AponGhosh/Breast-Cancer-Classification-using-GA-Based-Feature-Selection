@@ -10,7 +10,7 @@ This project focuses on feature selection using a Genetic Algorithm (GA) for the
 - **Performance Metrics**: Accuracy, precision, recall, and confusion matrices are evaluated for both classifiers.
 
 ## Dataset
-![BreastCancerDataSet.csv](https://github.com/AponGhosh/Breast-Cancer-Classification-using-GA-Based-Feature-Selection/blob/main/BreastCancerDataSet.csv)
+[BreastCancerDataSet.csv](https://github.com/AponGhosh/Breast-Cancer-Classification-using-GA-Based-Feature-Selection/blob/main/BreastCancerDataSet.csv)
 
 ## Methodology
 1. **Data Preprocessing**: The dataset is loaded, split into training and testing sets (80-20), and standardized using `StandardScaler`.
